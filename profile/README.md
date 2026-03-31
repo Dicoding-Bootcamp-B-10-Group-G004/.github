@@ -1,4 +1,5 @@
-## Kelompok Capstone Dicoding Batch 10 DB10-G004
+## Kelompok  DB10-G004
+Capstone Dicoding Batch 10
 
 Learning Path		: Artificial Intelligence
 
