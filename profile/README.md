@@ -22,13 +22,13 @@ https://www.kaggle.com/code/geraldbright/yolo-pipeline
 https://colab.research.google.com/drive/129ZFg7f1tAC37lbIYpGrBcaYrcAsKkjX?usp=sharing 
 
 ### Dataset Link:
-- Dapat diakses di Kaggle: https://www.kaggle.com/datasets/geraldbright/indonesian-food-computer-vision-dataset 
+- Dapat diakses di Kaggle: [https://www.kaggle.com/datasets/geraldbright/indonesian-food-computer-vision-dataset ](https://www.kaggle.com/datasets/geraldbright/indonesian-food-computer-vision-dataset)
 - atau Google Drive: https://drive.google.com/file/d/1AXMtjHRCEjEk7tYpbWJGhIzjYlPml9XY/view?usp=drive_link 
 
 ### Link Video Presentasi:
 
-https://youtu.be/PSuauHvEENY 
+[https://youtu.be/PSuauHvEENY ](https://youtu.be/PSuauHvEENY )
 
 ### Link Video Tutorial:
 
-https://drive.google.com/file/d/1zNmqHl_ZfYxNpRev7dHEblMELvGCR2Kc/view?usp=sharing 
+[https://drive.google.com/file/d/1zNmqHl_ZfYxNpRev7dHEblMELvGCR2Kc/view?usp=sharing ](https://drive.google.com/file/d/10oDkPwJCBrxc_OKT-nkK8CfzNGqisTCX/view?usp=drive_link)
