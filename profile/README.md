@@ -9,6 +9,10 @@ List Anggota		:
 - B25B10I007 - Tegar Saputra
 - B25B10I038 - Rendy Efesus Purba
 
+### FAIt App (Aplikasi Utama)
+
+https://github.com/Dicoding-Bootcamp-B-10-Group-G004/FAIt_app/releases/tag/v1.0.0 
+
 ### Preprocessing pipeline
 
 https://colab.research.google.com/drive/10pkGkECZ_5v7VJndstpkh6gvnPmO_ysS?usp=sharing 
@@ -20,6 +24,10 @@ https://www.kaggle.com/code/geraldbright/yolo-pipeline
 ### Conversion pipeline
 
 https://colab.research.google.com/drive/129ZFg7f1tAC37lbIYpGrBcaYrcAsKkjX?usp=sharing 
+
+### Mobile Testing App
+
+https://github.com/Dicoding-Bootcamp-B-10-Group-G004/FAIt_mobile_test/releases/tag/v1.0.0 
 
 ### Dataset Link:
 - Dapat diakses di Kaggle: [https://www.kaggle.com/datasets/geraldbright/indonesian-food-computer-vision-dataset ](https://www.kaggle.com/datasets/geraldbright/indonesian-food-computer-vision-dataset)
